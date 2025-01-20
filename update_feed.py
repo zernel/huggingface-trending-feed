@@ -58,7 +58,7 @@ class HuggingFaceTrendingFeed:
         for model in models:
             fe = fg.add_entry()
             fe.title(model['title'])
-            fe.url(href=model['url'])
+            fe.link(href=model['url'])
             
         fg.rss_file(os.path.join(self.output_dir, 'feed.xml'))
 
@@ -75,7 +75,7 @@ class HuggingFaceTrendingFeed:
         for model in models:
             item = {
                 "id": model['url'],
-                "url": model['url'],
+                "link": model['url'],
                 "title": model['title'],
             }
             json_feed["items"].append(item)
