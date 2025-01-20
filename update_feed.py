@@ -22,7 +22,7 @@ class HuggingFaceTrendingFeed:
     def fetch_trending_models(self):
         """获取 trending 模型列表"""
         headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36n"
         }
         response = requests.get(self.model_trending_url, headers=headers)
         soup = BeautifulSoup(response.text, 'lxml')
@@ -58,7 +58,7 @@ class HuggingFaceTrendingFeed:
         for model in models:
             fe = fg.add_entry()
             fe.title(model['title'])
-            fe.link(href=model['url'])
+            fe.url(href=model['url'])
             
         fg.rss_file(os.path.join(self.output_dir, 'feed.xml'))
 
