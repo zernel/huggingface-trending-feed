@@ -33,31 +33,13 @@ class HuggingFaceTrendingFeed:
         
         for card in cards:
             try:
-                # 模型链接和标题
-                title_link = card.find('a', class_='header-link')
-                model_url = f"{self.base_url}{title_link['href']}"
-                title = title_link.text.strip()
-                
-                # 模型描述
-                description = card.find('div', class_='card-description').text.strip()
-                
-                # 作者信息
-                author = card.find('a', class_='user-link').text.strip()
-                
-                # 获取更新时间
-                time_element = card.find('time')
-                updated_time = parse(time_element['datetime']) if time_element else datetime.now()
-                
-                # 获取标签
-                tags = [tag.text.strip() for tag in card.find_all('span', class_='tag')]
+                card_link = card.find('a')
+                model_url = f"{self.base_url}{card_link['href']}"
+                title = card_link.find('header').text.strip()
                 
                 models.append({
                     'title': title,
                     'url': model_url,
-                    'description': description,
-                    'author': author,
-                    'updated_time': updated_time,
-                    'tags': tags
                 })
             except Exception as e:
                 print(f"Error processing model card: {e}")
@@ -78,13 +60,6 @@ class HuggingFaceTrendingFeed:
             fe.title(model['title'])
             fe.link(href=model['url'])
             
-            # 构建详细描述
-            content = f"{model['description']}\n\nAuthor: {model['author']}\nTags: {', '.join(model['tags'])}"
-            fe.description(content)
-            
-            fe.author(name=model['author'])
-            fe.published(model['updated_time'])
-            
         fg.rss_file(os.path.join(self.output_dir, 'feed.xml'))
 
     def generate_json_feed(self, models):
@@ -102,10 +77,6 @@ class HuggingFaceTrendingFeed:
                 "id": model['url'],
                 "url": model['url'],
                 "title": model['title'],
-                "content_text": f"{model['description']}\n\nAuthor: {model['author']}\nTags: {', '.join(model['tags'])}",
-                "date_published": model['updated_time'].isoformat(),
-                "authors": [{"name": model['author']}],
-                "tags": model['tags']
             }
             json_feed["items"].append(item)
             

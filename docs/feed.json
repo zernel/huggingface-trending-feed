@@ -3,5 +3,156 @@
   "title": "HuggingFace Trending Models",
   "home_page_url": "https://huggingface.co/models?sort=trending",
   "feed_url": "feed.json",
-  "items": []
+  "items": [
+    {
+      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "title": "hexgrad/Kokoro-82M"
+    },
+    {
+      "id": "https://huggingface.co/openbmb/MiniCPM-o-2_6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-o-2_6",
+      "title": "openbmb/MiniCPM-o-2_6"
+    },
+    {
+      "id": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+      "title": "MiniMaxAI/MiniMax-Text-01"
+    },
+    {
+      "id": "https://huggingface.co/microsoft/phi-4",
+      "url": "https://huggingface.co/microsoft/phi-4",
+      "title": "microsoft/phi-4"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+      "title": "deepseek-ai/DeepSeek-V3"
+    },
+    {
+      "id": "https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview",
+      "url": "https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview",
+      "title": "NovaSky-AI/Sky-T1-32B-Preview"
+    },
+    {
+      "id": "https://huggingface.co/jinaai/ReaderLM-v2",
+      "url": "https://huggingface.co/jinaai/ReaderLM-v2",
+      "title": "jinaai/ReaderLM-v2"
+    },
+    {
+      "id": "https://huggingface.co/MiniMaxAI/MiniMax-VL-01",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-VL-01",
+      "title": "MiniMaxAI/MiniMax-VL-01"
+    },
+    {
+      "id": "https://huggingface.co/internlm/internlm3-8b-instruct",
+      "url": "https://huggingface.co/internlm/internlm3-8b-instruct",
+      "title": "internlm/internlm3-8b-instruct"
+    },
+    {
+      "id": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "title": "black-forest-labs/FLUX.1-dev"
+    },
+    {
+      "id": "https://huggingface.co/kyutai/helium-1-preview-2b",
+      "url": "https://huggingface.co/kyutai/helium-1-preview-2b",
+      "title": "kyutai/helium-1-preview-2b"
+    },
+    {
+      "id": "https://huggingface.co/ostris/Flex.1-alpha",
+      "url": "https://huggingface.co/ostris/Flex.1-alpha",
+      "title": "ostris/Flex.1-alpha"
+    },
+    {
+      "id": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct",
+      "title": "meta-llama/Llama-3.3-70B-Instruct"
+    },
+    {
+      "id": "https://huggingface.co/LatitudeGames/Wayfarer-12B",
+      "url": "https://huggingface.co/LatitudeGames/Wayfarer-12B",
+      "title": "LatitudeGames/Wayfarer-12B"
+    },
+    {
+      "id": "https://huggingface.co/vikhyatk/moondream2",
+      "url": "https://huggingface.co/vikhyatk/moondream2",
+      "title": "vikhyatk/moondream2"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "title": "deepseek-ai/DeepSeek-R1"
+    },
+    {
+      "id": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
+      "title": "stabilityai/stable-diffusion-3.5-large"
+    },
+    {
+      "id": "https://huggingface.co/stabilityai/stable-point-aware-3d",
+      "url": "https://huggingface.co/stabilityai/stable-point-aware-3d",
+      "title": "stabilityai/stable-point-aware-3d"
+    },
+    {
+      "id": "https://huggingface.co/omkarthawakar/LlamaV-o1",
+      "url": "https://huggingface.co/omkarthawakar/LlamaV-o1",
+      "title": "omkarthawakar/LlamaV-o1"
+    },
+    {
+      "id": "https://huggingface.co/OuteAI/OuteTTS-0.3-1B",
+      "url": "https://huggingface.co/OuteAI/OuteTTS-0.3-1B",
+      "title": "OuteAI/OuteTTS-0.3-1B"
+    },
+    {
+      "id": "https://huggingface.co/jinaai/reader-lm-1.5b",
+      "url": "https://huggingface.co/jinaai/reader-lm-1.5b",
+      "title": "jinaai/reader-lm-1.5b"
+    },
+    {
+      "id": "https://huggingface.co/onnx-community/Kokoro-82M-ONNX",
+      "url": "https://huggingface.co/onnx-community/Kokoro-82M-ONNX",
+      "title": "onnx-community/Kokoro-82M-ONNX"
+    },
+    {
+      "id": "https://huggingface.co/jxm/cde-small-v2",
+      "url": "https://huggingface.co/jxm/cde-small-v2",
+      "title": "jxm/cde-small-v2"
+    },
+    {
+      "id": "https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World",
+      "url": "https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World",
+      "title": "nvidia/Cosmos-1.0-Diffusion-7B-Text2World"
+    },
+    {
+      "id": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "title": "meta-llama/Llama-3.1-8B-Instruct"
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B",
+      "title": "Qwen/Qwen2.5-Math-PRM-72B"
+    },
+    {
+      "id": "https://huggingface.co/openai/whisper-large-v3-turbo",
+      "url": "https://huggingface.co/openai/whisper-large-v3-turbo",
+      "title": "openai/whisper-large-v3-turbo"
+    },
+    {
+      "id": "https://huggingface.co/lightblue/lb-reranker-0.5B-v1.0",
+      "url": "https://huggingface.co/lightblue/lb-reranker-0.5B-v1.0",
+      "title": "lightblue/lb-reranker-0.5B-v1.0"
+    },
+    {
+      "id": "https://huggingface.co/coqui/XTTS-v2",
+      "url": "https://huggingface.co/coqui/XTTS-v2",
+      "title": "coqui/XTTS-v2"
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct",
+      "title": "Qwen/Qwen2.5-Coder-32B-Instruct"
+    }
+  ]
 }
