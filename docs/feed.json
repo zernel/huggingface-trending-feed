@@ -1,0 +1,7 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "HuggingFace Trending Models",
+  "home_page_url": "https://huggingface.co/models?sort=trending",
+  "feed_url": "feed.json",
+  "items": []
+}

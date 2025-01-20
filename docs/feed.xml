@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HuggingFace Trending Models</title><link>https://huggingface.co/models?sort=trending</link><description>Latest trending models from HuggingFace</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 19 Jan 2025 19:56:39 +0000</lastBuildDate></channel></rss>
