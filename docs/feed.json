@@ -55,6 +55,11 @@
       "title": "black-forest-labs/FLUX.1-dev"
     },
     {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "title": "deepseek-ai/DeepSeek-R1"
+    },
+    {
       "id": "https://huggingface.co/kyutai/helium-1-preview-2b",
       "url": "https://huggingface.co/kyutai/helium-1-preview-2b",
       "title": "kyutai/helium-1-preview-2b"
@@ -80,11 +85,6 @@
       "title": "vikhyatk/moondream2"
     },
     {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "title": "deepseek-ai/DeepSeek-R1"
-    },
-    {
       "id": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
       "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
       "title": "stabilityai/stable-diffusion-3.5-large"
@@ -93,6 +93,11 @@
       "id": "https://huggingface.co/stabilityai/stable-point-aware-3d",
       "url": "https://huggingface.co/stabilityai/stable-point-aware-3d",
       "title": "stabilityai/stable-point-aware-3d"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero",
+      "title": "deepseek-ai/DeepSeek-R1-Zero"
     },
     {
       "id": "https://huggingface.co/omkarthawakar/LlamaV-o1",
@@ -148,11 +153,6 @@
       "id": "https://huggingface.co/coqui/XTTS-v2",
       "url": "https://huggingface.co/coqui/XTTS-v2",
       "title": "coqui/XTTS-v2"
-    },
-    {
-      "id": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct",
-      "title": "Qwen/Qwen2.5-Coder-32B-Instruct"
     }
   ]
 }
