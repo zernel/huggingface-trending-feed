@@ -10,24 +10,9 @@
       "title": "deepseek-ai/DeepSeek-R1"
     },
     {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero",
-      "title": "deepseek-ai/DeepSeek-R1-Zero"
-    },
-    {
-      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "link": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "title": "hexgrad/Kokoro-82M"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+      "id": "https://huggingface.co/deepseek-ai/Janus-Pro-7B",
+      "link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B",
+      "title": "deepseek-ai/Janus-Pro-7B"
     },
     {
       "id": "https://huggingface.co/tencent/Hunyuan3D-2",
@@ -35,9 +20,24 @@
       "title": "tencent/Hunyuan3D-2"
     },
     {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+    },
+    {
+      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "link": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "title": "hexgrad/Kokoro-82M"
+    },
+    {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
       "title": "deepseek-ai/DeepSeek-V3"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
     },
     {
       "id": "https://huggingface.co/HKUSTAudio/Llasa-3B",
@@ -45,14 +45,14 @@
       "title": "HKUSTAudio/Llasa-3B"
     },
     {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero",
+      "title": "deepseek-ai/DeepSeek-R1-Zero"
+    },
+    {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
       "title": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
-    },
-    {
-      "id": "https://huggingface.co/openbmb/MiniCPM-o-2_6",
-      "link": "https://huggingface.co/openbmb/MiniCPM-o-2_6",
-      "title": "openbmb/MiniCPM-o-2_6"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
@@ -60,9 +60,9 @@
       "title": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
     },
     {
-      "id": "https://huggingface.co/ostris/Flex.1-alpha",
-      "link": "https://huggingface.co/ostris/Flex.1-alpha",
-      "title": "ostris/Flex.1-alpha"
+      "id": "https://huggingface.co/openbmb/MiniCPM-o-2_6",
+      "link": "https://huggingface.co/openbmb/MiniCPM-o-2_6",
+      "title": "openbmb/MiniCPM-o-2_6"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
@@ -75,9 +75,9 @@
       "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
     },
     {
-      "id": "https://huggingface.co/jinaai/ReaderLM-v2",
-      "link": "https://huggingface.co/jinaai/ReaderLM-v2",
-      "title": "jinaai/ReaderLM-v2"
+      "id": "https://huggingface.co/ostris/Flex.1-alpha",
+      "link": "https://huggingface.co/ostris/Flex.1-alpha",
+      "title": "ostris/Flex.1-alpha"
     },
     {
       "id": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
@@ -85,14 +85,19 @@
       "title": "black-forest-labs/FLUX.1-dev"
     },
     {
-      "id": "https://huggingface.co/microsoft/phi-4",
-      "link": "https://huggingface.co/microsoft/phi-4",
-      "title": "microsoft/phi-4"
+      "id": "https://huggingface.co/jinaai/ReaderLM-v2",
+      "link": "https://huggingface.co/jinaai/ReaderLM-v2",
+      "title": "jinaai/ReaderLM-v2"
     },
     {
-      "id": "https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
-      "link": "https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
-      "title": "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF"
+      "id": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
+      "link": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
+      "title": "deepseek-ai/Janus-Pro-1B"
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+      "link": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+      "title": "Qwen/Qwen2.5-14B-Instruct-1M"
     },
     {
       "id": "https://huggingface.co/bytedance-research/UI-TARS-7B-SFT",
@@ -100,14 +105,39 @@
       "title": "bytedance-research/UI-TARS-7B-SFT"
     },
     {
-      "id": "https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct",
-      "link": "https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct",
-      "title": "HuggingFaceTB/SmolVLM-256M-Instruct"
+      "id": "https://huggingface.co/microsoft/phi-4",
+      "link": "https://huggingface.co/microsoft/phi-4",
+      "title": "microsoft/phi-4"
+    },
+    {
+      "id": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
+      "link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
+      "title": "unsloth/DeepSeek-R1-GGUF"
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
+      "link": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
+      "title": "Qwen/Qwen2.5-7B-Instruct-1M"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base",
       "title": "deepseek-ai/DeepSeek-V3-Base"
+    },
+    {
+      "id": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
+      "link": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
+      "title": "cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese"
+    },
+    {
+      "id": "https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
+      "link": "https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
+      "title": "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF"
+    },
+    {
+      "id": "https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct",
+      "link": "https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct",
+      "title": "HuggingFaceTB/SmolVLM-256M-Instruct"
     },
     {
       "id": "https://huggingface.co/bytedance-research/UI-TARS-7B-DPO",
@@ -120,39 +150,9 @@
       "title": "meta-llama/Llama-3.3-70B-Instruct"
     },
     {
-      "id": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF",
-      "link": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF",
-      "title": "bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF"
-    },
-    {
-      "id": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
-      "link": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
-      "title": "MiniMaxAI/MiniMax-Text-01"
-    },
-    {
-      "id": "https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview",
-      "link": "https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview",
-      "title": "FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview"
-    },
-    {
-      "id": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
-      "link": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
-      "title": "Qwen/Qwen2.5-14B-Instruct-1M"
-    },
-    {
-      "id": "https://huggingface.co/tencent/HunyuanVideo",
-      "link": "https://huggingface.co/tencent/HunyuanVideo",
-      "title": "tencent/HunyuanVideo"
-    },
-    {
-      "id": "https://huggingface.co/Alibaba-NLP/gte-modernbert-base",
-      "link": "https://huggingface.co/Alibaba-NLP/gte-modernbert-base",
-      "title": "Alibaba-NLP/gte-modernbert-base"
-    },
-    {
-      "id": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
-      "link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
-      "title": "unsloth/DeepSeek-R1-GGUF"
+      "id": "https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct",
+      "link": "https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct",
+      "title": "HuggingFaceTB/SmolVLM-500M-Instruct"
     }
   ]
 }
