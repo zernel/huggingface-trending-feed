@@ -30,9 +30,19 @@
       "title": "unsloth/DeepSeek-R1-GGUF"
     },
     {
+      "id": "https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot",
+      "link": "https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot",
+      "title": "m-a-p/YuE-s1-7B-anneal-en-cot"
+    },
+    {
       "id": "https://huggingface.co/tencent/Hunyuan3D-2",
       "link": "https://huggingface.co/tencent/Hunyuan3D-2",
       "title": "tencent/Hunyuan3D-2"
+    },
+    {
+      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "link": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "title": "hexgrad/Kokoro-82M"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
@@ -40,24 +50,24 @@
       "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
     },
     {
-      "id": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
-      "link": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
-      "title": "deepseek-ai/Janus-Pro-1B"
-    },
-    {
-      "id": "https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot",
-      "link": "https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot",
-      "title": "m-a-p/YuE-s1-7B-anneal-en-cot"
-    },
-    {
       "id": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
       "link": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
       "title": "Qwen/Qwen2.5-VL-7B-Instruct"
     },
     {
-      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "link": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "title": "hexgrad/Kokoro-82M"
+      "id": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "link": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "title": "black-forest-labs/FLUX.1-dev"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
+      "link": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
+      "title": "deepseek-ai/Janus-Pro-1B"
+    },
+    {
+      "id": "https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501",
+      "link": "https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501",
+      "title": "mistralai/Mistral-Small-24B-Base-2501"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
@@ -70,9 +80,9 @@
       "title": "deepseek-ai/DeepSeek-R1-Zero"
     },
     {
-      "id": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
-      "link": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
-      "title": "cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese"
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
     },
     {
       "id": "https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct",
@@ -80,39 +90,9 @@
       "title": "Qwen/Qwen2.5-VL-72B-Instruct"
     },
     {
-      "id": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-      "link": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-      "title": "black-forest-labs/FLUX.1-dev"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
-    },
-    {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "title": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
-    },
-    {
-      "id": "https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501",
-      "link": "https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501",
-      "title": "mistralai/Mistral-Small-24B-Base-2501"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base",
-      "title": "deepseek-ai/DeepSeek-V3-Base"
-    },
-    {
-      "id": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
-      "link": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
-      "title": "Qwen/Qwen2.5-14B-Instruct-1M"
-    },
-    {
-      "id": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
-      "link": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
-      "title": "Qwen/Qwen2.5-VL-3B-Instruct"
     },
     {
       "id": "https://huggingface.co/cagliostrolab/animagine-xl-4.0",
@@ -120,19 +100,14 @@
       "title": "cagliostrolab/animagine-xl-4.0"
     },
     {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base",
+      "title": "deepseek-ai/DeepSeek-V3-Base"
     },
     {
-      "id": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
-      "link": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
-      "title": "Qwen/Qwen2.5-7B-Instruct-1M"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+      "id": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
+      "link": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
+      "title": "cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese"
     },
     {
       "id": "https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0",
@@ -140,9 +115,9 @@
       "title": "Alpha-VLLM/Lumina-Image-2.0"
     },
     {
-      "id": "https://huggingface.co/HKUSTAudio/Llasa-3B",
-      "link": "https://huggingface.co/HKUSTAudio/Llasa-3B",
-      "title": "HKUSTAudio/Llasa-3B"
+      "id": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+      "link": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+      "title": "Qwen/Qwen2.5-VL-3B-Instruct"
     },
     {
       "id": "https://huggingface.co/Almawave/Velvet-14B",
@@ -150,9 +125,34 @@
       "title": "Almawave/Velvet-14B"
     },
     {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+      "link": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+      "title": "Qwen/Qwen2.5-14B-Instruct-1M"
+    },
+    {
       "id": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
       "link": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
       "title": "stabilityai/stable-diffusion-3.5-large"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+    },
+    {
+      "id": "https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B",
+      "link": "https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B",
+      "title": "allenai/Llama-3.1-Tulu-3-405B"
+    },
+    {
+      "id": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct",
+      "link": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct",
+      "title": "meta-llama/Llama-3.3-70B-Instruct"
     }
   ]
 }
