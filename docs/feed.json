@@ -25,6 +25,11 @@
       "title": "Zyphra/Zonos-v0.1-transformer"
     },
     {
+      "id": "https://huggingface.co/microsoft/OmniParser-v2.0",
+      "link": "https://huggingface.co/microsoft/OmniParser-v2.0",
+      "title": "microsoft/OmniParser-v2.0"
+    },
+    {
       "id": "https://huggingface.co/hexgrad/Kokoro-82M",
       "link": "https://huggingface.co/hexgrad/Kokoro-82M",
       "title": "hexgrad/Kokoro-82M"
@@ -40,19 +45,9 @@
       "title": "black-forest-labs/FLUX.1-dev"
     },
     {
-      "id": "https://huggingface.co/microsoft/OmniParser-v2.0",
-      "link": "https://huggingface.co/microsoft/OmniParser-v2.0",
-      "title": "microsoft/OmniParser-v2.0"
-    },
-    {
       "id": "https://huggingface.co/tomg-group-umd/huginn-0125",
       "link": "https://huggingface.co/tomg-group-umd/huginn-0125",
       "title": "tomg-group-umd/huginn-0125"
-    },
-    {
-      "id": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
-      "link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
-      "title": "unsloth/DeepSeek-R1-GGUF"
     },
     {
       "id": "https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe",
@@ -70,14 +65,19 @@
       "title": "deepseek-ai/DeepSeek-V3"
     },
     {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+      "id": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
+      "link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
+      "title": "unsloth/DeepSeek-R1-GGUF"
     },
     {
       "id": "https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4",
       "link": "https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4",
       "title": "ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
     },
     {
       "id": "https://huggingface.co/zed-industries/zeta",
@@ -95,16 +95,6 @@
       "title": "stabilityai/stable-diffusion-3.5-large"
     },
     {
-      "id": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
-      "link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
-      "title": "mistralai/Mistral-Small-24B-Instruct-2501"
-    },
-    {
-      "id": "https://huggingface.co/tencent/Hunyuan3D-2",
-      "link": "https://huggingface.co/tencent/Hunyuan3D-2",
-      "title": "tencent/Hunyuan3D-2"
-    },
-    {
       "id": "https://huggingface.co/Liberata/illustrious-xl-v1.0",
       "link": "https://huggingface.co/Liberata/illustrious-xl-v1.0",
       "title": "Liberata/illustrious-xl-v1.0"
@@ -115,14 +105,9 @@
       "title": "Qwen/Qwen2.5-VL-7B-Instruct"
     },
     {
-      "id": "https://huggingface.co/open-thoughts/OpenThinker-32B",
-      "link": "https://huggingface.co/open-thoughts/OpenThinker-32B",
-      "title": "open-thoughts/OpenThinker-32B"
-    },
-    {
-      "id": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4",
-      "link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4",
-      "title": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+      "id": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
+      "link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
+      "title": "mistralai/Mistral-Small-24B-Instruct-2501"
     },
     {
       "id": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct",
@@ -130,9 +115,14 @@
       "title": "meta-llama/Llama-3.3-70B-Instruct"
     },
     {
-      "id": "https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0",
-      "link": "https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0",
-      "title": "Alpha-VLLM/Lumina-Image-2.0"
+      "id": "https://huggingface.co/tencent/Hunyuan3D-2",
+      "link": "https://huggingface.co/tencent/Hunyuan3D-2",
+      "title": "tencent/Hunyuan3D-2"
+    },
+    {
+      "id": "https://huggingface.co/open-thoughts/OpenThinker-32B",
+      "link": "https://huggingface.co/open-thoughts/OpenThinker-32B",
+      "title": "open-thoughts/OpenThinker-32B"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
@@ -140,9 +130,9 @@
       "title": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
     },
     {
-      "id": "https://huggingface.co/simplescaling/s1-32B",
-      "link": "https://huggingface.co/simplescaling/s1-32B",
-      "title": "simplescaling/s1-32B"
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
     },
     {
       "id": "https://huggingface.co/AIDC-AI/Ovis2-34B",
@@ -150,9 +140,19 @@
       "title": "AIDC-AI/Ovis2-34B"
     },
     {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
-      "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+      "id": "https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0",
+      "link": "https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0",
+      "title": "Alpha-VLLM/Lumina-Image-2.0"
+    },
+    {
+      "id": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4",
+      "link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4",
+      "title": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+    },
+    {
+      "id": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "link": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "title": "meta-llama/Llama-3.2-3B-Instruct"
     }
   ]
 }
