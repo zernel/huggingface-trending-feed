@@ -15,44 +15,14 @@
       "title": "deepseek-ai/DeepSeek-R1"
     },
     {
-      "id": "https://huggingface.co/microsoft/OmniParser-v2.0",
-      "link": "https://huggingface.co/microsoft/OmniParser-v2.0",
-      "title": "microsoft/OmniParser-v2.0"
-    },
-    {
-      "id": "https://huggingface.co/microsoft/wham",
-      "link": "https://huggingface.co/microsoft/wham",
-      "title": "microsoft/wham"
-    },
-    {
       "id": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B",
       "link": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B",
       "title": "Wan-AI/Wan2.1-T2V-14B"
     },
     {
-      "id": "https://huggingface.co/stepfun-ai/stepvideo-t2v",
-      "link": "https://huggingface.co/stepfun-ai/stepvideo-t2v",
-      "title": "stepfun-ai/stepvideo-t2v"
-    },
-    {
-      "id": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-      "link": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-      "title": "black-forest-labs/FLUX.1-dev"
-    },
-    {
-      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "link": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "title": "hexgrad/Kokoro-82M"
-    },
-    {
-      "id": "https://huggingface.co/stepfun-ai/Step-Audio-Chat",
-      "link": "https://huggingface.co/stepfun-ai/Step-Audio-Chat",
-      "title": "stepfun-ai/Step-Audio-Chat"
-    },
-    {
-      "id": "https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy",
-      "link": "https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy",
-      "title": "Kijai/SkyReels-V1-Hunyuan_comfy"
+      "id": "https://huggingface.co/microsoft/OmniParser-v2.0",
+      "link": "https://huggingface.co/microsoft/OmniParser-v2.0",
+      "title": "microsoft/OmniParser-v2.0"
     },
     {
       "id": "https://huggingface.co/qihoo360/TinyR1-32B-Preview",
@@ -60,9 +30,24 @@
       "title": "qihoo360/TinyR1-32B-Preview"
     },
     {
-      "id": "https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V",
-      "link": "https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V",
-      "title": "Skywork/SkyReels-V1-Hunyuan-I2V"
+      "id": "https://huggingface.co/allenai/olmOCR-7B-0225-preview",
+      "link": "https://huggingface.co/allenai/olmOCR-7B-0225-preview",
+      "title": "allenai/olmOCR-7B-0225-preview"
+    },
+    {
+      "id": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "link": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "title": "black-forest-labs/FLUX.1-dev"
+    },
+    {
+      "id": "https://huggingface.co/microsoft/wham",
+      "link": "https://huggingface.co/microsoft/wham",
+      "title": "microsoft/wham"
+    },
+    {
+      "id": "https://huggingface.co/stepfun-ai/stepvideo-t2v",
+      "link": "https://huggingface.co/stepfun-ai/stepvideo-t2v",
+      "title": "stepfun-ai/stepvideo-t2v"
     },
     {
       "id": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P",
@@ -70,34 +55,9 @@
       "title": "Wan-AI/Wan2.1-I2V-14B-720P"
     },
     {
-      "id": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct",
-      "link": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct",
-      "title": "moonshotai/Moonlight-16B-A3B-Instruct"
-    },
-    {
-      "id": "https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain",
-      "link": "https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain",
-      "title": "yandex/YandexGPT-5-Lite-8B-pretrain"
-    },
-    {
-      "id": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
-      "link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
-      "title": "unsloth/DeepSeek-R1-GGUF"
-    },
-    {
-      "id": "https://huggingface.co/allenai/olmOCR-7B-0225-preview",
-      "link": "https://huggingface.co/allenai/olmOCR-7B-0225-preview",
-      "title": "allenai/olmOCR-7B-0225-preview"
-    },
-    {
-      "id": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
-      "link": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
-      "title": "Qwen/Qwen2.5-VL-7B-Instruct"
-    },
-    {
-      "id": "https://huggingface.co/unsloth/r1-1776-GGUF",
-      "link": "https://huggingface.co/unsloth/r1-1776-GGUF",
-      "title": "unsloth/r1-1776-GGUF"
+      "id": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "link": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "title": "hexgrad/Kokoro-82M"
     },
     {
       "id": "https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B",
@@ -105,24 +65,74 @@
       "title": "Wan-AI/Wan2.1-T2V-1.3B"
     },
     {
+      "id": "https://huggingface.co/microsoft/Magma-8B",
+      "link": "https://huggingface.co/microsoft/Magma-8B",
+      "title": "microsoft/Magma-8B"
+    },
+    {
+      "id": "https://huggingface.co/stepfun-ai/Step-Audio-Chat",
+      "link": "https://huggingface.co/stepfun-ai/Step-Audio-Chat",
+      "title": "stepfun-ai/Step-Audio-Chat"
+    },
+    {
+      "id": "https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain",
+      "link": "https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain",
+      "title": "yandex/YandexGPT-5-Lite-8B-pretrain"
+    },
+    {
+      "id": "https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy",
+      "link": "https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy",
+      "title": "Kijai/SkyReels-V1-Hunyuan_comfy"
+    },
+    {
+      "id": "https://huggingface.co/Kijai/WanVideo_comfy",
+      "link": "https://huggingface.co/Kijai/WanVideo_comfy",
+      "title": "Kijai/WanVideo_comfy"
+    },
+    {
+      "id": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct",
+      "link": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct",
+      "title": "moonshotai/Moonlight-16B-A3B-Instruct"
+    },
+    {
+      "id": "https://huggingface.co/nvidia/DeepSeek-R1-FP4",
+      "link": "https://huggingface.co/nvidia/DeepSeek-R1-FP4",
+      "title": "nvidia/DeepSeek-R1-FP4"
+    },
+    {
+      "id": "https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V",
+      "link": "https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V",
+      "title": "Skywork/SkyReels-V1-Hunyuan-I2V"
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
+      "link": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
+      "title": "Qwen/Qwen2.5-VL-7B-Instruct"
+    },
+    {
+      "id": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
+      "link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF",
+      "title": "unsloth/DeepSeek-R1-GGUF"
+    },
+    {
       "id": "https://huggingface.co/deepseek-ai/Janus-Pro-7B",
       "link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B",
       "title": "deepseek-ai/Janus-Pro-7B"
     },
     {
-      "id": "https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B",
-      "link": "https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B",
-      "title": "stepfun-ai/Step-Audio-TTS-3B"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
-      "title": "deepseek-ai/DeepSeek-V3"
+      "id": "https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+      "link": "https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+      "title": "HuggingFaceTB/SmolVLM2-2.2B-Instruct"
     },
     {
       "id": "https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B",
       "link": "https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B",
       "title": "homebrewltd/AlphaMaze-v0.2-1.5B"
+    },
+    {
+      "id": "https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b",
+      "link": "https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b",
+      "title": "perplexity-ai/r1-1776-distill-llama-70b"
     },
     {
       "id": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
@@ -135,24 +145,14 @@
       "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
     },
     {
-      "id": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid",
-      "link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid",
-      "title": "Zyphra/Zonos-v0.1-hybrid"
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+      "title": "deepseek-ai/DeepSeek-V3"
     },
     {
-      "id": "https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct",
-      "link": "https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct",
-      "title": "HuggingFaceTB/SmolVLM2-2.2B-Instruct"
-    },
-    {
-      "id": "https://huggingface.co/smirki/UIGEN-T1-Qwen-7b",
-      "link": "https://huggingface.co/smirki/UIGEN-T1-Qwen-7b",
-      "title": "smirki/UIGEN-T1-Qwen-7b"
-    },
-    {
-      "id": "https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b",
-      "link": "https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b",
-      "title": "perplexity-ai/r1-1776-distill-llama-70b"
+      "id": "https://huggingface.co/agents-course/notebooks",
+      "link": "https://huggingface.co/agents-course/notebooks",
+      "title": "agents-course/notebooks"
     }
   ]
 }
